@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomDataSource.cs](./CS/WebApplication1/CustomDataSource.cs) (VB: [CustomDataSource.vb](./VB/WebApplication1/CustomDataSource.vb))
+* [CustomObjects.cs](./CS/WebApplication1/CustomObjects.cs) (VB: [CustomObjects.vb](./VB/WebApplication1/CustomObjects.vb))
+* [DefaultForm.aspx](./CS/WebApplication1/DefaultForm.aspx) (VB: [DefaultForm.aspx](./VB/WebApplication1/DefaultForm.aspx))
+* [DefaultForm.aspx.cs](./CS/WebApplication1/DefaultForm.aspx.cs) (VB: [DefaultForm.aspx](./VB/WebApplication1/DefaultForm.aspx))
+<!-- default file list end -->
 # How to bind the ASPxScheduler to the Oracle data base using the ObjectDataSource component (based on T223127)
 
 

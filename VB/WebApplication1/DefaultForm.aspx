@@ -1,7 +1,8 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="DefaultForm.aspx.vb" Inherits="WebApplication1.DefaultForm" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v15.1, Version=15.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler" TagPrefix="dxwschs" %>
-<%@ Register Assembly="DevExpress.XtraScheduler.v15.1.Core, Version=15.1.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.XtraScheduler" TagPrefix="cc1" %>
+<%@ Register Assembly="DevExpress.Web.ASPxScheduler.v24.2, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxScheduler" TagPrefix="dxwschs" %>
+<%@ Register Assembly="DevExpress.XtraScheduler.v24.2.Core, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.XtraScheduler" TagPrefix="cc1" %>
+<%@ Register Assembly="DevExpress.XtraScheduler.v24.2.Core.Desktop, Version=24.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.XtraScheduler" TagPrefix="cc1" %>
 
 <!DOCTYPE html>
 

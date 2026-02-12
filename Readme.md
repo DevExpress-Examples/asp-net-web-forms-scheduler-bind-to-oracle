@@ -23,7 +23,7 @@ For implementation details, refer to the following article: [How to bind ASPxSch
 * [DefaultForm.aspx](./CS/WebApplication1/DefaultForm.aspx) (VB: [DefaultForm.aspx](./VB/WebApplication1/DefaultForm.aspx))
 * [DefaultForm.aspx.cs](./CS/WebApplication1/DefaultForm.aspx.cs) (VB: [DefaultForm.aspx.vb](./VB/WebApplication1/DefaultForm.aspx.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-scheduler-bind-to-oracle&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-scheduler-bind-to-oracle&~~~was_helpful=no)
 
